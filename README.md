@@ -3,10 +3,15 @@
 https://simmer.io/@RumeysaEmine/final-game
 
 ## Oynanış
-Biricik bridge platformlar arası geçiş oyunudur. Oyunda platformlar arasındaki mesafeye göre köprü boyutu ayarlanır ve oyuncunun düşmeden karşı platforma geçmesi sağlanır.
+- Space tuşu ile köprünün boyutunu karşı platformdaki renki kısıma gelecek şekilde arttırın.
+- Platforma geçmek için yön tuşunu kullanın. 
+- Köprü boyutunun platformun dışına çıkmadığına dikkat edin.
+- ESC tuşu ile menü ekranını açabilirsiniz. Oyunu durdurabilir, kaldığınız yerden devam ettirebilir veya tekrar başlatabilirsiniz.
 
 ## Tuşlar
-Oyun yukarı ve sağ ok tuşu kullanılarak oynanır. Köprü boyutu yukarı ok tuşuyla ayarlandıktan sonra sağ ok tuşuyla köprü karşı platforma yerleştirilir. ESC tuşu durdurma menüsünü açıp kapatmak için kullanılır.
+- Space : Köprünün boyunu ayarlamak için
+- Sağ yön tuşu (→) : Karakteri hareket ettirmek için 
+- ESC : Menu ekranı
 
 ## Oyun İçi Görsel
 #### Main Menu / Game Over Menu / Pause Menu
