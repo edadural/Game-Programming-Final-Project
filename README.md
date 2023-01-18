@@ -22,12 +22,12 @@ Oyun yukarı ve sağ ok tuşu kullanılarak oynanır. Köprü boyutu yukarı ok 
     - https://assetstore.unity.com/packages/3d/characters/viass-free-character-pack-141471
 
 ### Geliştirdiğim Kısımlar
- * Ana Menu, oynanabilir sahneler ve sahneler arası geçiş
- * Kayıt alma (Pause menüsündeki Main Menu butonuna tıklandığında bölüm kaydı alınmaktadır.)
- * Oyuncu animasyonunun eklenmesi
+*  Oyuna ses ve müzik eklenmesi
+*  Game Over Menu 
  
 ### Ekip Arkadaşımın Geliştirdiği Kısımlar
-*  Oyuna ses ve müzik eklenmesi
-*  Game Over Menu
+* Ana Menu, oynanabilir sahneler ve sahneler arası geçiş
+* Kayıt alma (Pause menüsündeki Main Menu butonuna tıklandığında bölüm kaydı alınmaktadır.)
+* Oyuncu animasyonunun eklenmesi
 
 Ortak geliştirdiğimiz kısım oyuncunun karşı platforma başarılı geçişinde yeni platformun oluşması.
