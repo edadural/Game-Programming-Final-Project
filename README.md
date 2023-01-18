@@ -3,13 +3,11 @@
 https://simmer.io/@RumeysaEmine/final-game
 
 ## Oynanış
-- Space tuşu ile köprünün boyutunu karşı platformdaki renki kısıma gelecek şekilde arttırın.
-- Platforma geçmek için yön tuşunu kullanın. 
-- Köprü boyutunun platformun dışına çıkmadığına dikkat edin.
-- ESC tuşu ile menü ekranını açabilirsiniz. Oyunu durdurabilir, kaldığınız yerden devam ettirebilir veya tekrar başlatabilirsiniz.
+- Yukarı yön tuşu ile köprünün boyutunu karşı platformdaki renki kısıma gelecek şekilde arttırın.
+- Platforma geçmek için sağ yön tuşunu kullanın. 
 
 ## Tuşlar
-- Space : Köprünün boyunu ayarlamak için
+- Sağ yön tuşu (↑) : Köprünün boyunu ayarlamak için
 - Sağ yön tuşu (→) : Karakteri hareket ettirmek için 
 - ESC : Menu ekranı
 
